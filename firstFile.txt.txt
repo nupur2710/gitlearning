@@ -3,8 +3,3 @@ This is a demo file. Will go in the first commit.
 
 Adding changes to the first file. - from nupur
 Adding changes to the first file. - from khushbu
-Adding changes from nupur
-
-This line will be cherry picked from nupur branch.
-
-
